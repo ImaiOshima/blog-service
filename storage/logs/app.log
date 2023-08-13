@@ -1,0 +1,2 @@
+2023/08/12 01:18:50 {"callers":["/Users/imai/IdeaProjects/blog-service/main.go: 25 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1691774330878120000}
+2023/08/12 01:21:14 {"callers":["/Users/imai/IdeaProjects/blog-service/main.go: 25 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1691774474408476000}
